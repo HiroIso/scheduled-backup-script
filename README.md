@@ -1,7 +1,7 @@
 # scheduled-backup-script
 
 ### Scenario:
-Theis project to create a script called **backup.sh** which runs every day and automatically backs up any encrypted password files that have been updated in the past 24 hours.
+Theis project to create a script called **backup.sh** which runs every day and automatically backs up files that have been updated in the past 24 hours.
 
 ### To set up schudele:
 1. Run the command in the shell to open cron file.
